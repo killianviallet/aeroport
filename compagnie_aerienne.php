@@ -17,7 +17,6 @@ include_once 'BDD.php';
        <nav>
            <ul>
                <li><a href="aeroport.html">Accueil</a></li>
-               <li><a href="modifier_compagnie.php">Modifier_compagnie</a></li>
                <li><a href="passager.php">Passagers</a></li>
                <li><a href="vol.php">Vols</a></li>
 
