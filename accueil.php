@@ -5,7 +5,7 @@ echo '
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="aeroport.css">
-    <title>accueil</title>
+    <title>accuei</title>
     <nav>
     <h1>AEROPORT</h1>
     </nav>
