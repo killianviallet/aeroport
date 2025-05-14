@@ -5,7 +5,11 @@ echo '
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="aeroport.css">
+<<<<<<< HEAD
     <title>accuei</title>
+=======
+    <title>accueil</title>
+>>>>>>> 1a1a0d2 (Add files via upload)
     <nav>
     <h1>AEROPORT</h1>
     </nav>
