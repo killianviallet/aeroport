@@ -1,0 +1,135 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f7fa;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #003366;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 40px;
+    text-align: center;
+    padding-top: 10px;
+    margin-top:20px ;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th, td {
+    word-wrap: break-word;
+    white-space: normal;
+    padding: 8px;
+    border: 1px solid #ccc;
+    overflow-wrap: break-word;
+}
+
+th {
+    font-weight: bold;
+    white-space: normal;
+    background-color: #003366;
+    color: white;
+    text-align: center;
+}
+table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: auto;
+    table-layout: fixed;
+    margin-top: 20px;
+}
+
+colgroup col {
+    width: 50%; 
+}
+
+th {
+    text-align: center;
+    padding: 10px;
+    border: 1px solid #aaa;
+}
+
+td {
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #aaa;
+    word-break: break-word; 
+}
+.image{
+    display: block;
+    margin:-20px ;
+    width: 70%; 
+    max-width: 800 px;
+    border-radius: 10px;
+    box-shadow: 0 4 px 12 px rgba(0,0,0,0.2);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.retour {
+    position: fixed;
+    display: inline-block;
+    padding: 10px 15px;
+    background-color: skyblue ;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    left: 0px;
+
+
+}
+
+.retour:hover {
+    background-color:skyblue ;
+}
+
+.login {border: 1px solid black;
+    justify-content: center;
+    display: flex;
+    flex-direction:column;
+    padding: 10px;
+    margin-top: 250px;
+    width: 20%;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center; 
+
+}
+
+
+.button {align-items: center;
+
+}
